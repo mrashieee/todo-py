@@ -1,6 +1,7 @@
 # Python-generated files
 __pycache__/
 *.py[oc]
+.ToDoManager_data.json
 build/
 dist/
 wheels/
